@@ -1,2 +1,3 @@
 This is TITV Git central repo
 Project Manager : Le Nhat Tung
+Developers :  Manh, Tien, Duy
